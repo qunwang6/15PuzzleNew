@@ -14,6 +14,8 @@ import posthtml from "posthtml";
 import rimraf from "rimraf";
 import fs from "fs";
 
+
+
 const production = !process.env.ROLLUP_WATCH;
 // https://github.com/metonym/svelte-rollup-template/blob/0387931372396766fd826b56f3a1dce71ab137a2/rollup.config.js#L16
 function hashStaticAssets() {
