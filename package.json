@@ -15,6 +15,7 @@
     "@rollup/plugin-commonjs": "11.0.2",
     "@rollup/plugin-node-resolve": "^7.0.0",
     "@rollup/plugin-replace": "^2.3.3",
+    "@sveltejs/adapter-vercel": "^3.0.3",
     "htmlnano": "^0.2.6",
     "posthtml": "^0.13.1",
     "posthtml-hash": "^1.1.1",
